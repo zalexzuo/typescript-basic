@@ -103,7 +103,7 @@ console.log(customer?.birthday?.getFullYear()); // undefined
 
 
 /* --- Optional element access operator --- */
-// use(ful when dealing with arrays
+// useful when dealing with arrays
 // if(customers !== null && customers !== undefined )
 //      console.log(customers[0]);
 // ===> customers?.[0];
