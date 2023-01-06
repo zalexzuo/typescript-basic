@@ -46,7 +46,7 @@ let mySize: Size = Size.Medium;
 console.log(mySize); // 2
 // if define enum as a const, 
 // compiler will generate more optimized code
-// const Size { Small = 1, Medium , Large } // ===> let mySize = 2;
+// const enum Size { Small = 1, Medium , Large } // ===> let mySize = 2;
 
 
 /* --- Functions --- */
