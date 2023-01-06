@@ -81,7 +81,7 @@ greet(null); // Sawadee
 greet(undefined); // Sawadee
 
 
-/* --- Optional Changing --- */
+/* --- Optional Chaining --- */
 type Customer = {
     birthday?: Date;
 }
